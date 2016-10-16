@@ -11,3 +11,5 @@ print(package1.module11.__name__)
 print(package2.module2)
 
 print(get_data('data','text1.txt').decode('utf8'))
+
+
